@@ -1,2 +1,5 @@
 requests
 httpagentparser
+httpx
+httpagentparser
+flask
